@@ -1,5 +1,6 @@
 # React_Firebase
 
+cd atom
 npam install
 npm start
 
